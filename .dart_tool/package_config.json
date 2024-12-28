@@ -50,12 +50,6 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "flutter_lints",
-      "rootUri": "file:///C:/Users/victo/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-5.0.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.5"
-    },
-    {
       "name": "flutter_test",
       "rootUri": "file:///C:/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -80,12 +74,6 @@
       "languageVersion": "3.2"
     },
     {
-      "name": "lints",
-      "rootUri": "file:///C:/Users/victo/AppData/Local/Pub/Cache/hosted/pub.dev/lints-5.1.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.6"
-    },
-    {
       "name": "matcher",
       "rootUri": "file:///C:/Users/victo/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.16+1",
       "packageUri": "lib/",
@@ -104,10 +92,22 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "page_transition",
+      "rootUri": "file:///C:/Users/victo/AppData/Local/Pub/Cache/hosted/pub.dev/page_transition-2.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
       "name": "path",
       "rootUri": "file:///C:/Users/victo/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
+    },
+    {
+      "name": "simple_animations",
+      "rootUri": "file:///C:/Users/victo/AppData/Local/Pub/Cache/hosted/pub.dev/simple_animations-5.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
     },
     {
       "name": "sky_engine",
@@ -164,13 +164,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "flutter_anima_telainicial",
+      "name": "tela_animada",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.6"
+      "languageVersion": "2.12"
     }
   ],
-  "generated": "2024-12-28T12:19:54.730304Z",
+  "generated": "2024-12-28T13:02:27.602641Z",
   "generator": "pub",
   "generatorVersion": "3.6.0",
   "flutterRoot": "file:///C:/flutter",
